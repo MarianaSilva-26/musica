@@ -6,6 +6,9 @@ namespace musica
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sozinho!");
+            Console.WriteLine("Caetano Veloso!");
+            Console.WriteLine("");
             Console.WriteLine("as vezes no silencio da noite!");
             Console.WriteLine("eu fico imaginando nós dois!");
             Console.WriteLine("eu fico ali sonhando acordado!");
